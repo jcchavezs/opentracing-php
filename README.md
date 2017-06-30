@@ -1,6 +1,6 @@
 # OpenTracing API for PHP
 
-[![Build Status](https://travis-ci.org/jcchavezs/opentracing-php.svg?branch=master)](https://travis-ci.org/jcchavezs/opentracing-php) [![OpenTracing Badge](https://img.shields.io/badge/OpenTracing-enabled-blue.svg)](http://opentracing.io) [![Total Downloads](https://poser.pugx.org/jcchavezs/opentracing/downloads)](https://packagist.org/packages/jcchavezs/opentracing)
+[![Build Status](https://travis-ci.org/jcchavezs/opentracing-php.svg?branch=master)](https://travis-ci.org/jcchavezs/opentracing-php) [![OpenTracing Badge](https://img.shields.io/badge/OpenTracing-enabled-blue.svg)](http://opentracing.io) [![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/opentracing/opentracing-php) [![Total Downloads](https://poser.pugx.org/jcchavezs/opentracing/downloads)](https://packagist.org/packages/jcchavezs/opentracing)
 
 PHP library for the OpenTracing's API.
 
@@ -14,7 +14,7 @@ In order to understand the library, one must first be familiar with the
 
 OpenTracing-PHP can be installed via Composer:
 
-```php
+```bash
 composer require jcchavezs/opentracing-php
 ```
 
